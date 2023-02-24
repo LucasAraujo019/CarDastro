@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CarDastro.git/static/css/main.9cfc12da.css",
+    "main.js": "/CarDastro.git/static/js/main.d4e561c7.js",
+    "static/js/787.7e9e379f.chunk.js": "/CarDastro.git/static/js/787.7e9e379f.chunk.js",
+    "static/media/big_car.png": "/CarDastro.git/static/media/big_car.4455bec0e33fdaf71556.png",
+    "static/media/empty_car.png": "/CarDastro.git/static/media/empty_car.2f6157ae53edee3a3818.png",
+    "static/media/big_mb.png": "/CarDastro.git/static/media/big_mb.fa45aa82452392d3b04a.png",
+    "index.html": "/CarDastro.git/index.html",
+    "main.9cfc12da.css.map": "/CarDastro.git/static/css/main.9cfc12da.css.map",
+    "main.d4e561c7.js.map": "/CarDastro.git/static/js/main.d4e561c7.js.map",
+    "787.7e9e379f.chunk.js.map": "/CarDastro.git/static/js/787.7e9e379f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cfc12da.css",
+    "static/js/main.d4e561c7.js"
+  ]
+}
